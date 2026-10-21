@@ -1,0 +1,10 @@
+/.env
+/image.png
+__pycache__/
+*.py[cod]
+logs/*
+!logs/.gitkeep
+/datalake/raw/*
+!/datalake/raw/.gitkeep
+/datalake/staged/*
+!/datalake/staged/.gitkeep
