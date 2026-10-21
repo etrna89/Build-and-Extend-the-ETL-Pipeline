@@ -1,0 +1,11 @@
+order_id,order_date,store_id,store_name,barangay,city,product_id,product_name,category,quantity,unit_price
+ORD-2001,2026-10-05,S004,Aling Rosa's Tindahan,Brgy. Poblacion,Cebu City,P007,Banana chips,Snacks,5,20.00
+ORD-2002,2026-10-05,S004,Aling Rosa's Tindahan,Brgy. Poblacion,Cebu City,P008, bottled water ,Beverages,8,15.00
+ORD-2003,2026-10-06,S004,Aling Rosa's Tindahan,Brgy. Poblacion,Cebu City,P001,Instant pancit canton,Noodles,4,17.00
+ORD-2004,2026-10-06,S004,Aling Rosa's Tindahan,Brgy. Poblacion,Cebu City,P007,Banana chips, snacks ,3,20.00
+ORD-2004,2026-10-06,S004,Aling Rosa's Tindahan,Brgy. Poblacion,Cebu City,P007,Banana chips, snacks ,3,20.00
+ORD-2005,2026-10-07,S004,Aling Rosa's Tindahan,Brgy. Poblacion,Cebu City,P008,Bottled water,Beverages,6,15.00
+ORD-2006,2026-10-07,S004,Aling Rosa's Tindahan,Brgy. Poblacion,Cebu City,P002,3-in-1 coffee sachet,beverages,7,9.00
+ORD-2007,2026-10-08,S004,Aling Rosa's Tindahan,Brgy. Poblacion,Cebu City,P007,Banana chips,Snacks,2,20.00
+ORD-2008,2026-10-08,S004,Aling Rosa's Tindahan,Brgy. Poblacion,Cebu City,P008,Bottled water,Beverages,4,15.00
+ORD-2009,2026-10-08,S004,Aling Rosa's Tindahan,Brgy. Poblacion,Cebu City,P001,Instant pancit canton,Noodles,3,
